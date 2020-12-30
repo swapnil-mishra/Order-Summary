@@ -1,6 +1,8 @@
 # Order_Summary
 Shopping cart order summary using React.js
 
+<img src="https://github.com/swapnil-mishra/Order-Summary/blob/main/preview.png" width="900px" alt="Order Summary"/>
+
 ## Description:
 The order summary of the shopping cart is created using React.js and the complete workflow is divided in 5 subsections:
 
