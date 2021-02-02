@@ -1,6 +1,6 @@
 # Order_Summary
 Shopping cart order summary using React.js
-Hackerearth frontend contest
+| Hackerearth frontend contest
 
 <img src="https://github.com/swapnil-mishra/Order-Summary/blob/main/preview.png" width="900px" alt="Order Summary"/>
 
