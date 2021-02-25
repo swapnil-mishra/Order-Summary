@@ -30,15 +30,15 @@ to store and parse data values from local storage).
 * Launch Visual Studio Code and open the folder you recently created.
 * Inside the terminal window type:
 
-   ***npx create-react-app order_summary***
+   `npx create-react-app order_summary`
 
 * A folder named order_summary comprising of *nodemodules* will be created 
 * After the completion of process type
   
-   ***cd order_summary***
+   `cd order_summary`
 
 * Now, unzip the src folder and replace it with the src folder inside order_summary and inside terminal window type
 
-  ***npm start***
+  `npm start`
 
 * The output will now be available in your browser window.
